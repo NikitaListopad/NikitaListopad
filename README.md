@@ -16,7 +16,7 @@
 ![SQL](https://img.shields.io/badge/SQL-000000??style=for-the-badge&logo=MYSQL)
 ![API](https://img.shields.io/badge/API-000000??style=for-the-badge&logo=appveyor)
 
-## 🌐 Follow & Contact me
+<div style="margin: 0 auto">## 🌐 Follow & Contact me</div>
 
 [![Linkedin](https://img.shields.io/badge/Linkedin-000000??style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/mykyta-lystopad-370a23179/)
 [![Instagram](https://img.shields.io/badge/Instagram-000000??style=for-the-badge&logo=Instagram)](https://www.instagram.com/nikitalistopad/)
