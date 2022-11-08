@@ -26,7 +26,9 @@
 [![Telegram](https://img.shields.io/badge/Telegram-000000??style=for-the-badge&logo=Telegram)]((https://t.me/Lnikita))
 
 <h2 align="center">📊 GitHub Stats</h2>
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=nikitalistopad&theme=flat&hide_border=true)
 
 <h2 align="center">🏆GitHub Trophies</h2>
+
 ![Mykyta's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ryo-ma&rank=S&theme=flat&no-frame=true&no-bg=true&margin-w=4)
