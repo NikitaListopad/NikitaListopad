@@ -1,4 +1,4 @@
-Header
+![Header](https://github.com/NikitaListopad/NikitaListopad/blob/main/assets/coding.gif?raw=true)
 
 About me
 
