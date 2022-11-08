@@ -17,3 +17,9 @@
 ![API](https://img.shields.io/badge/API-000000??style=for-the-badge&logo=appveyor)
 
 ## Follow Me
+[![Linkedin](https://img.shields.io/badge/Linkedin-000000??style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/mykyta-lystopad-370a23179/)
+[![Instagram](https://img.shields.io/badge/Instagram-000000??style=for-the-badge&logo=Instagram)](https://www.instagram.com/nikitalistopad/)
+
+## Contact Me
+[![Gmail](https://img.shields.io/badge/Gmail-000000??style=for-the-badge&logo=Gmail)](mailto:listopad.nikita96@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-000000??style=for-the-badge&logo=Telegram)]((https://t.me/Lnikita))
