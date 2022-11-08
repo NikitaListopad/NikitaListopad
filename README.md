@@ -1,5 +1,5 @@
 [![Header](https://github.com/NikitaListopad/NikitaListopad/blob/main/assets/coding.gif?raw=true)](https://github.com/NikitaListopad)
-<a href="https://github.com/NikitaListopad" style="width: 100%" data-target="animated-image.originalLink"><img src="https://github.com/NikitaListopad/NikitaListopad/raw/main/assets/coding.gif?raw=true" alt="Header" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
+<animated-image data-catalyst style="width:100%""><a href="https://github.com/NikitaListopad" data-target="animated-image.originalLink"><img src="https://github.com/NikitaListopad/NikitaListopad/raw/main/assets/coding.gif?raw=true" alt="Header" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a></animated-image>
 ## I am Frontend Developer
 
 ## Languages and Tools
