@@ -1,5 +1,4 @@
 [![Header](https://github.com/NikitaListopad/NikitaListopad/blob/main/assets/coding.gif?raw=true)](https://github.com/NikitaListopad)
-<animated-image data-catalyst style="width:100%""><a href="https://github.com/NikitaListopad" data-target="animated-image.originalLink"><img src="https://github.com/NikitaListopad/NikitaListopad/raw/main/assets/coding.gif?raw=true" alt="Header" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a></animated-image>
 ## I am Frontend Developer
 
 ## Languages and Tools
@@ -16,10 +15,8 @@
 ![SQL](https://img.shields.io/badge/SQL-000000??style=for-the-badge&logo=MYSQL)
 ![API](https://img.shields.io/badge/API-000000??style=for-the-badge&logo=appveyor)
 
-## Follow Me
+## Follow & Contact me
 [![Linkedin](https://img.shields.io/badge/Linkedin-000000??style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/mykyta-lystopad-370a23179/)
 [![Instagram](https://img.shields.io/badge/Instagram-000000??style=for-the-badge&logo=Instagram)](https://www.instagram.com/nikitalistopad/)
-
-## Contact Me
 [![Gmail](https://img.shields.io/badge/Gmail-000000??style=for-the-badge&logo=Gmail)](mailto:listopad.nikita96@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-000000??style=for-the-badge&logo=Telegram)]((https://t.me/Lnikita))
